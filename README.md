@@ -1,1 +1,1 @@
-# hermes-personal
+Asistente personal de uso privado
